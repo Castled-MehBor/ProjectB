@@ -1,0 +1,3 @@
+displayName = Project Bot
+author = Castled and Dev Team
+version = 0.1
